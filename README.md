@@ -21,7 +21,7 @@
 | 05 | 재귀 알고리즘 | ✅ | - | [Link-Week4](https://devlog111.tistory.com/21) |
 | 06 | 정렬 | ✅ | - | [Link-Week5](https://devlog111.tistory.com/24) |
 | 07 | 집합 |  ✅ | - | [Link-Week6](https://devlog111.tistory.com/25) |
-| 08 | 문자열 검색 | ✅  | - | - |
+| 08 | 문자열 검색 | ✅  | - | [Link-Week6](https://devlog111.tistory.com/26) |
 | 09 | 리스트 | 🔒 | - | - |
 | 10 | 트리 | 🔒 | - | - |
 | 11 | 해시 | 🔒 | - | - |
